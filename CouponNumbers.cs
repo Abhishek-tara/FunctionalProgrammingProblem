@@ -34,25 +34,7 @@ namespace FunctionalProgramming
                 Console.WriteLine($"Coupon numer {i+1}: {couponNumber[i]}");
             }
 
-            //int[] coupon = new int[20];
-            //Random random = new Random();
-            //for (int i = 0; i < 20; i++)
-            //{
-            //    coupon[i] = random.Next(1, 50);
-            //    int check = coupon[i];
-            //    for (int j = i - 1; j >= 0; j--)
-            //    {
-            //        if (coupon[i] == coupon[j])
-            //        {
-            //            i--;
-            //        }
-            //    }
-            //}
-            //for (int i = 0; i < 20; i++)
-            //{
-            //    Console.WriteLine("Coupon " + (i + 1) + " : " + coupon[i]);
-            //}
-
+           
         }
     }
 }
