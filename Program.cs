@@ -6,11 +6,15 @@ namespace FunctionalProgrammingProblems
     {
         public static void Main(string[] args)
         {
-            Fibonacci.printFibonacci();
-            
+            //Fibonacci.printFibonacci();
             //PerfectNumber.findPerfectNumber();
-            //ReverseNum.printReverse();
             //PrimeNumber.checkPrime();
+            //ReverseNumber.printReverse();
+            //CouponNumbers.distinctCouponNumber();
+            StopWatch.startStopWatch();
+
+            
+           
         }
     }
 }
